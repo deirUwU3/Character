@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Character</string>
+    <string name="Page">Page</string>
+    <string name="archon1">Name: Venti      Nation: Mondstat </string>
+    <string name="archon2">Name: Zhongli    Nation: Liyue </string>
+    <string name="archon3">Name: Ei         Nation: Inazuma </string>
+    <string name="archon4">Name: Nahida     Nation: Sumeru </string>
+    <string name="archon5">Name: Furina     Nation: Fontaine </string>
+    <string name="a">Mondstat </string>
+    <string name="b">Liyue </string>
+    <string name="c">Inazuma </string>
+    <string name="d">Sumeru </string>
+    <string name="e">Fontaine </string>
+</resources>
